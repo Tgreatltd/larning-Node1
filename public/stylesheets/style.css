@@ -1,0 +1,22 @@
+body {
+  /* padding: 50px; */
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.tobi{
+  color: red;
+}
+.h{
+  position: absolute;
+  bottom: 0%;
+  height: 50px;
+  width: 100%;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
